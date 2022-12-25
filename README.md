@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Oxaaama">
   <img align="left" alt="Osama Shakeel's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sidra-khan-9098a4177/">
+<a href="https://www.linkedin.com/in/osamashakeel/">
   <img align="left" alt="Osama Shakeel's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sardarosama">
