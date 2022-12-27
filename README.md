@@ -35,4 +35,4 @@ I am a passionate Software Engineer from Pakistan 🤍💚
  
 
 ⚡ Fav Quote <br>
-“Push yourself, because no one else is going to do it for you."
+“The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
