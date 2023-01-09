@@ -31,7 +31,7 @@ I am a passionate Software Engineer from Pakistan 🤍💚
 ### 📕 Latest Blog Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI: How it is Changing the Way We Live and Work](https://medium.com/@osaama/the-future-of-ai-how-it-is-changing-the-way-we-live-and-work-fc37d75e4c86)
+- [The Future of Stock Market Trend Prediction with AI and Machine Learning](https://osaama.medium.com/the-future-of-stock-market-trend-prediction-with-ai-and-machine-learning-ed7fa2b44c5d)
  
 
 ⚡ Fav Quote <br>
