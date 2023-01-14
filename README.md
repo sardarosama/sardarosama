@@ -3,7 +3,7 @@
 
 ### Hello There!! [Osama Shakeel](https://osamashakeel.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
-<a href="[https://twitter.com/MLPioneer]">
+<a href="[https://twitter.com/MLPioneer/]">
   <img align="left" alt="Osama Shakeel's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/osamashakeel/">
